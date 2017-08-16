@@ -1,0 +1,28 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN angular 2 application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ks212/MEAN-ang2-prj1.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Angular",
+    "2",
+    "application"
+  ],
+  "author": "Kirti Sachdeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ks212/MEAN-ang2-prj1/issues"
+  },
+  "homepage": "https://github.com/ks212/MEAN-ang2-prj1#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
