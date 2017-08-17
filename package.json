@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ks212/MEAN-ang2-prj1#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
   }
 }
